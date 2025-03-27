@@ -1,5 +1,7 @@
 # AWS-Load-Balancer-Notes-Project
 
+Project Description:
+This project demonstrates the implementation of an AWS Application Load Balancer (ALB) to efficiently route traffic between multiple EC2 instances based on URL path rules. It enhances high availability, security, and scalability for web applications by distributing requests across multiple Availability Zones (AZs).
 
 Project Starts Here :- 
 Step 1:- Create 2 Ec2 instances in 2 different Availability zones (AZ's) within same region.
